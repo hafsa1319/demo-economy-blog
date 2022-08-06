@@ -1977,8 +1977,6 @@ a {
   bottom: 0;
   height: 1px;
   background: #ffffff;
-  left: -32px;
-  width: calc(100% + 64px);
 }
 @media (max-width: 767px) {
   .cid-sa6vGT8lx1 .divider {
@@ -1994,10 +1992,4 @@ a {
   .cid-sa6vGT8lx1 .privacy {
     text-align: center;
   }
-}
-.cid-tdKbqM2ING {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
 }
